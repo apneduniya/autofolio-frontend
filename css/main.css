@@ -5,7 +5,10 @@
 
 
 body {
-    background-color: #ebcfed;
+    background-image: url("../img/download.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: #437B94;*/
     
     height: 100%;
 }
@@ -30,9 +33,10 @@ body {
 .middle-right-box{
 
     color: black;
-    background-image: url('../img/right-bg.png');
-    background-size: 100% 100%;
-
+    background-image:url("../img/ai_art.png");
+    background-size: cover;
+    background-color: white;
+    
 
 }
 
